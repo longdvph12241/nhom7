@@ -1,0 +1,21 @@
+Yêu cầu dự án mẫu
+1. Font-end
+- slide
+- Show danh mục sản phẩm
+- click vào danh mục sản phẩm hiển thị tất cả sản phẩm danh mục đó
+- ở trang chủ hiện danh mục sản phẩm(sp mới, sp sale,...)
+- ở trang chủ top sản phẩm yêu thích
+- khi click vào 1 sp:
+	 + chi tiết sản phẩm đó
+	 + sp liên quan
+	 + Comment(đăng nhập mới được comment)
+- đăng nhập/đăng kí
+- tìm kiếm sản phẩm
+
+2. back-end
+- Quản trị danh mục sản phẩm(show,thêm,sửa,xóa)
+- quản trị sản phẩm
+- quản trị slide
+- quản trị comment
+- quản trị user
+- quản trị setting

@@ -1,0 +1,12 @@
+Quy trình thiết kế 1 website:
+1. Xác định và phân tích yêu cầu(đã có sẵn hoặc từ khách hàng)
+2. Thiết kế: -Phác thảo
+	     -Photoshop
+	     -Dàn trang HTML/CSS/JS
+==> WEB TĨNH
+3. Thực thi: -Thiết kế CSDL
+	     -Lập trình
+==> WEB ĐỘNG
+4. Test
+5. Triển khai
+6. Bảo trì
